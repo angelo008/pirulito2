@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1021464340258",
+    "firebase_url": "https://pirulito2-74618.firebaseio.com",
+    "project_id": "pirulito2-74618",
+    "storage_bucket": "pirulito2-74618.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021464340258:android:b99edf640dfa9167",
+        "android_client_info": {
+          "package_name": "com.angelo.pirulito"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021464340258-nujqqb69frpblnpgernprrm8kkh1nega.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDfxZO2Fp8qustaDq7BeahprYl-DQ5qew"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
